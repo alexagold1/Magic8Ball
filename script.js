@@ -14,35 +14,35 @@ function shakeMagic8Ball(){
     switch (randomNumber) {
       case 0:
         eightBall = 'It is certain';
-        responseImg = "itiscertain.jpg";
+        responseImg = "imgs/itiscertain.jpg";
         break;
       case 1:
         eightBall = 'It is decidedly so';
-        responseImg = "itisdecidedlyso.jpg";
+        responseImg = "imgs/itisdecidedlyso.jpg";
         break;
       case 2:
         eightBall = 'Focus and ask again';
-        responseImg = "focusandaskagain.png";
+        responseImg = "imgs/focusandaskagain.png";
         break;
       case 3:
         eightBall = 'Cannot predict now';
-        responseImg = "cannotpredictnow.png";
+        responseImg = "imgs/cannotpredictnow.png";
         break;
       case 4:
         eightBall = 'Do not count on it';
-        responseImg = "dontcountonit.png";
+        responseImg = "imgs/dontcountonit.png";
         break;
       case 5:
         eightBall = 'My sources say no';
-        responseImg = "mysourcessayno.png";
+        responseImg = "imgs/mysourcessayno.png";
         break;
       case 6:
         eightBall = 'Outlook not so good';
-        responseImg = "outlooknotsogood.png";
+        responseImg = "imgs/outlooknotsogood.webp";
         break;
       case 7:
         eightBall = 'Signs point to yes';
-        responseImg = "signspointtoyesgood.png";
+        responseImg = "imgs/signspointtoyesgood.png";
         break;
     }
 
